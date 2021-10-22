@@ -1,0 +1,25 @@
+.header{
+   background-color: #A1B7C8;
+}
+
+.header-container{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 13px 0;
+}
+
+.header__logo{
+   width: 124px;
+}
+
+.header__contacts{
+   display: none;
+}
+
+.header__contacts-burger{
+   display: block;
+   width: 27px;
+   height: 14px;
+   background-image: url(../images/menu.svg);
+}

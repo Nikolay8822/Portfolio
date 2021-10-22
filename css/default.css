@@ -43,3 +43,8 @@ address{
 ul{
    list-style-type: none;
 }
+
+.container{
+   padding: 0 15px;
+   margin: 0 auto;
+}
